@@ -8,7 +8,5 @@
 3. **STOP** the machine (open the lid) when your material is **ON FIRE**
 4. **OPEN** the fume extractor **BEFORE** you run the laser cutting job
 
-## Computer Login Information
-**Username:** laser-cutter  
-**Password:** d0111t0g
+
 
