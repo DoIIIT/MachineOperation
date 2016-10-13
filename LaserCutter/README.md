@@ -1,7 +1,5 @@
 # Laser Cutter Tutorial
 
-[toc]
-
 ## Important Notes
 1. You need to attend the **LASER CUTTER TRAINING** before you are elligible to operate the laser cutter
 2. Must be **PRESENT** and **MOTIONR** the laser cutter when it is on
@@ -10,7 +8,10 @@
 
 ## Prepare Your Files
 ### Illustrator
-[**Template File**](LaserInfo/VLS230.ait)
+#### Illustrator Template File [**(Download)**](LaserInfo/VLS230.ait)
+The artboard is the laser cutter's cutting area (16"x12", landscape). Please don't modified the artboard size. ![Cutting Area](img/CuttingArea.png)
+
+
 ### Inkscape
 ### Rhino
 
