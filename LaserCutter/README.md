@@ -14,7 +14,7 @@ The Universal Laser Cutter use **Color** and **Line Width** to identify differen
 **RED LINE** for VECTOR CUT  
 **BLUE LINE** for VECTOR SCORE  
 
-![Demo](img/LaserCutDemo.JPG)
+![Demo](img/LaserCutDemo.JPG)  
 In the image above, the Block M is **RASTERIZE**, UMSI is **VECTOR SCORE**, and the border of the block wood is **VECTOR CUT**
 
 For Vector Cut and Vectore Score, choose the **THINNEST** poosible line
