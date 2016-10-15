@@ -150,7 +150,7 @@ Click one of the nine anchor point, and click To Pointer to move the anchor poin
 Use these two features to make sure your design can fit into your material.
 **!!!IMPORTANT!!!: Whereever there is a design on the cutting area, your material should cover it. Never that the laser hit the cutting table directly.**
 
-The **Estimate View** can tell you how much time it will take to cut your design.
+The **Estimate View** can tell you how much time it will take to cut your design.  
 ![Estimate Time](img/estimatetime.png)
 
 
