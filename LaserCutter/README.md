@@ -34,7 +34,7 @@ The artboard is the laser cutter's cutting area (**16"x12"**, landscape). Please
 The swatches provides the color that the Laser Cutter can read. You will only need:  
 **BLACK** for **RASTERIZE**  
 **RED** for **VECTOR CUT**  
-**BLUE** for **VECTOR SCORE**
+**BLUE** for **VECTOR SCORE**  
 ![Swatches](img/Swatches.png)
 
 --
