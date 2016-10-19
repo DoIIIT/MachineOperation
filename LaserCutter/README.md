@@ -173,10 +173,11 @@ Close the door. And you can hit the Green button to Start running your laser-cut
 4. Keep an eye on the laser cutter all the time
 
 ### 8. Clean Up and Turn off the Machine.
-When you finish your cutting. You need to:
-1. Turn off the fume extractor
-2. Remove all of the material that is left on the cutting table
-3. Close the door of laser cutter
+When you finish your cutting. You need to
+
+1. Turn off the fume extractor  
+2. Remove all of the material that is left on the cutting table  
+3. Close the door of laser cutter  
 4. Turn off the laser cutter
 5. Log off the computer
 
